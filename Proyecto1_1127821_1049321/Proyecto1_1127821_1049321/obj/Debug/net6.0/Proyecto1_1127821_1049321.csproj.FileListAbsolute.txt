@@ -1,0 +1,15 @@
+C:\Users\PC\Desktop\URL\URL\negocios turbinas\Manuelito\Proyecto1_1127821_1049321\Proyecto1_1127821_1049321\bin\Debug\net6.0\Proyecto1_1127821_1049321.exe
+C:\Users\PC\Desktop\URL\URL\negocios turbinas\Manuelito\Proyecto1_1127821_1049321\Proyecto1_1127821_1049321\bin\Debug\net6.0\Proyecto1_1127821_1049321.deps.json
+C:\Users\PC\Desktop\URL\URL\negocios turbinas\Manuelito\Proyecto1_1127821_1049321\Proyecto1_1127821_1049321\bin\Debug\net6.0\Proyecto1_1127821_1049321.runtimeconfig.json
+C:\Users\PC\Desktop\URL\URL\negocios turbinas\Manuelito\Proyecto1_1127821_1049321\Proyecto1_1127821_1049321\bin\Debug\net6.0\Proyecto1_1127821_1049321.dll
+C:\Users\PC\Desktop\URL\URL\negocios turbinas\Manuelito\Proyecto1_1127821_1049321\Proyecto1_1127821_1049321\bin\Debug\net6.0\Proyecto1_1127821_1049321.pdb
+C:\Users\PC\Desktop\URL\URL\negocios turbinas\Manuelito\Proyecto1_1127821_1049321\Proyecto1_1127821_1049321\obj\Debug\net6.0\Proyecto1_1127821_1049321.csproj.AssemblyReference.cache
+C:\Users\PC\Desktop\URL\URL\negocios turbinas\Manuelito\Proyecto1_1127821_1049321\Proyecto1_1127821_1049321\obj\Debug\net6.0\Proyecto1_1127821_1049321.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC\Desktop\URL\URL\negocios turbinas\Manuelito\Proyecto1_1127821_1049321\Proyecto1_1127821_1049321\obj\Debug\net6.0\Proyecto1_1127821_1049321.AssemblyInfoInputs.cache
+C:\Users\PC\Desktop\URL\URL\negocios turbinas\Manuelito\Proyecto1_1127821_1049321\Proyecto1_1127821_1049321\obj\Debug\net6.0\Proyecto1_1127821_1049321.AssemblyInfo.cs
+C:\Users\PC\Desktop\URL\URL\negocios turbinas\Manuelito\Proyecto1_1127821_1049321\Proyecto1_1127821_1049321\obj\Debug\net6.0\Proyecto1_1127821_1049321.csproj.CoreCompileInputs.cache
+C:\Users\PC\Desktop\URL\URL\negocios turbinas\Manuelito\Proyecto1_1127821_1049321\Proyecto1_1127821_1049321\obj\Debug\net6.0\Proyecto1_1127821_1049321.dll
+C:\Users\PC\Desktop\URL\URL\negocios turbinas\Manuelito\Proyecto1_1127821_1049321\Proyecto1_1127821_1049321\obj\Debug\net6.0\refint\Proyecto1_1127821_1049321.dll
+C:\Users\PC\Desktop\URL\URL\negocios turbinas\Manuelito\Proyecto1_1127821_1049321\Proyecto1_1127821_1049321\obj\Debug\net6.0\Proyecto1_1127821_1049321.pdb
+C:\Users\PC\Desktop\URL\URL\negocios turbinas\Manuelito\Proyecto1_1127821_1049321\Proyecto1_1127821_1049321\obj\Debug\net6.0\Proyecto1_1127821_1049321.genruntimeconfig.cache
+C:\Users\PC\Desktop\URL\URL\negocios turbinas\Manuelito\Proyecto1_1127821_1049321\Proyecto1_1127821_1049321\obj\Debug\net6.0\ref\Proyecto1_1127821_1049321.dll
